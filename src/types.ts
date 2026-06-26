@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-export type VehicleType = 'Automóvil' | 'Camioneta' | 'Station Wagon' | 'Motocicleta' | 'Otro';
+export type VehicleType = 'Particular' | 'Diplomático' | 'Automóvil' | 'Camioneta' | 'Station Wagon' | 'Motocicleta' | 'Otro';
 
 export type RegistrationStatus = 'pendiente' | 'aprobado' | 'rechazado' | 'observado';
 
