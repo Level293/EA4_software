@@ -1,0 +1,6 @@
+{
+  "name": "Aduanas Chile - Paso Los Libertadores",
+  "description": "Sistema de registro y control de vehículos para el Paso Fronterizo Los Libertadores - Servicio Nacional de Aduanas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
